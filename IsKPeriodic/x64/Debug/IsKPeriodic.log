@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CPP Projects\Repositories\IsKPeriodic\IsKPeriodic\main.cpp(34,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CPP Projects\Repositories\IsKPeriodic\IsKPeriodic\main.cpp(28): warning C4715: isKPeriodic: значение возвращается не при всех путях выполнения
+  IsKPeriodic.vcxproj -> D:\CPP Projects\Repositories\IsKPeriodic\IsKPeriodic\x64\Debug\IsKPeriodic.exe
